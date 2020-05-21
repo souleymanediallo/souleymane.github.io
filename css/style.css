@@ -1,0 +1,31 @@
+body {
+    background-color: #fff !important;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+}
+
+h3,
+.dev,
+.fab {
+    color: #FF5733;
+}
+
+.project a {
+    color: #000;
+    font-size: .8rem;
+    font-weight: bold;
+}
+
+.project a:hover {
+    color: #FF5733;
+}
+
+.card-text {
+    font-size: .8rem;
+}
