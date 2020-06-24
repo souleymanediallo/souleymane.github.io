@@ -16,6 +16,14 @@ h3,
     color: #FF5733;
 }
 
+.h5 {
+    font-size: .8rem;
+}
+
+.h6 {
+    font-size: .9rem;
+}
+
 .project a {
     color: #000;
     font-size: .8rem;
