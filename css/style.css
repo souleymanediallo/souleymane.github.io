@@ -25,13 +25,13 @@ h3,
 }
 
 .project a {
-    color: #000;
+    color: #FF5733;
     font-size: .8rem;
     font-weight: bold;
 }
 
 .project a:hover {
-    color: #FF5733;
+    color: #000000;
 }
 
 .card-text {
