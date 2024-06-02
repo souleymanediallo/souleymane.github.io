@@ -37,3 +37,15 @@ h3,
 .card-text {
     font-size: .8rem;
 }
+
+.badge-b {
+    background: #f8f9fa !important;
+    color: #000000;
+    font-weight: 600;
+    font-size: .7rem;
+    line-height: 24px;
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
